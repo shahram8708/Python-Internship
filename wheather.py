@@ -9,7 +9,7 @@ class WeatherApp:
         self.root.title("Weather Forecast App")
         self.root.geometry("500x600")
         self.root.resizable(False, False)
-        self.api_key = "b8993812d0f0fea1b9dabe09ca873a6f" 
+        self.api_key = "API_Key" 
 
         self.create_widgets()
 
